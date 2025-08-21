@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Árvores Centenárias do Recife</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-green-50 text-gray-800 font-sans">
+
+  <!-- Cabeçalho -->
+  <header class="bg-green-800 text-white p-5 text-center">
+    <h1 class="text-2xl font-bold">Desvalorização das Árvores Centenárias do Recife</h1>
+    <p class="text-sm mt-1">Trabalho de Conclusão do Ensino Fundamental</p>
+  </header>
+
+  <main class="p-5 space-y-6 max-w-3xl mx-auto">
+
+    <!-- Introdução -->
+    <section class="bg-white shadow rounded-xl p-4">
+      <p>
+        Em uma cidade onde cada vez mais se constroem prédios, mas menos se preservam árvores, é urgente olhar para o que ainda resiste.
+        Este TCF aborda a <b>desvalorização das árvores centenárias do Recife</b>, essencial para o ambiente, história e identidade urbana.
+      </p>
+    </section>
+
+    <!-- Importância -->
+    <section class="bg-white shadow rounded-xl p-4">
+      <h2 class="text-lg font-bold text-green-800 mb-2">Importância</h2>
+      <p>
+        As árvores centenárias purificam o ar, regulam o clima, abrigam a fauna e preservam a memória da cidade.
+        Sem elas, o calor urbano aumenta e a qualidade de vida diminui.
+      </p>
+    </section>
+
+    <!-- Exemplos -->
+    <section class="bg-white shadow rounded-xl p-4">
+      <h2 class="text-lg font-bold text-green-800 mb-2">Exemplos</h2>
+      <p>
+        O <b>baobá</b> e a <b>jaqueira</b> são ícones da cidade, representando memória, cultura e natureza.
+      </p>
+
+      <!-- Imagens online -->
+      <div class="grid md:grid-cols-2 gap-4 mt-4">
+        <figure class="overflow-hidden rounded-xl border border-green-100">
+          <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/67/f3/18/baoba-centenario-no-parque.jpg?w=1200&h=-1&s=1" 
+               alt="Baobá centenário no Recife" class="w-full h-64 object-cover">
+          <figcaption class="p-2 text-xs text-gray-600 text-center">Baobá centenário no Recife</figcaption>
+        </figure>
+        <figure class="overflow-hidden rounded-xl border border-green-100">
+          <img src="https://media-cdn.tripadvisor.com/media/photo-s/0d/35/16/39/parque-da-jaqueira.jpg" 
+               alt="Parque da Jaqueira" class="w-full h-64 object-cover">
+          <figcaption class="p-2 text-xs text-gray-600 text-center">Parque da Jaqueira, Recife</figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <!-- Problemas -->
+    <section class="bg-white shadow rounded-xl p-4">
+      <h2 class="text-lg font-bold text-green-800 mb-2">Problemas</h2>
+      <ul class="list-disc list-inside space-y-1">
+        <li>Podas mal feitas e abandono.</li>
+        <li>Remoção de árvores antigas.</li>
+        <li>Lixo e vandalismo.</li>
+        <li>Falta de políticas públicas eficazes.</li>
+      </ul>
+    </section>
+
+    <!-- Consequências -->
+    <section class="bg-white shadow rounded-xl p-4">
+      <h2 class="text-lg font-bold text-green-800 mb-2">Consequências</h2>
+      <p>
+        A urbanização desordenada causa aumento de calor, piora do ar, perda de fauna, menos áreas de lazer e enfraquecimento da memória urbana.
+      </p>
+    </section>
+
+    <!-- Soluções -->
+    <section class="bg-white shadow rounded-xl p-4">
+      <h2 class="text-lg font-bold text-green-800 mb-2">Soluções</h2>
+      <ul class="list-disc list-inside space-y-1">
+        <li>Podas técnicas por profissionais.</li>
+        <li>Placas informativas em várias línguas.</li>
+        <li>Grupos ambientais para cuidar das árvores antigas.</li>
+        <li>Educação ambiental e fiscalização.</li>
+        <li>Listas atualizadas das árvores em bancos públicos.</li>
+      </ul>
+    </section>
+
+    <!-- Conclusão -->
+    <section class="bg-white shadow rounded-xl p-4">
+      <h2 class="text-lg font-bold text-green-800 mb-2">Conclusão</h2>
+      <p>
+        Valorizar as árvores centenárias é preservar a memória, a natureza e o futuro do Recife,
+        garantindo saúde, conforto e sustentabilidade para as próximas gerações.
+      </p>
+    </section>
+
+  </main>
+
+  <!-- Rodapé -->
+  <footer class="bg-green-900 text-white text-center p-3 mt-6">
+    <p class="text-sm">&copy; 2025 - Trabalho de Conclusão do Ensino Fundamental</p>
+  </footer>
+</body>
+</html>
